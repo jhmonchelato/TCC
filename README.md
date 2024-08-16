@@ -1,6 +1,12 @@
 # Análise da Conectividade e Resiliência de Redes Complexas Formadas por Neurônios
 
-Trabalho de conclusão do curso de Engenharia de Computação pela Universidade Federal de São Carlos (UFSCar)
+
+
+Trabalho de Conclusão de Curso apresentado ao curso de Engenharia de Computação do Centro de Ciências Exatas e de Tecnologia da Universidade Federal de São Carlos, como parte dos requisitos para a obtenção do título de Bacharel em Engenharia de Computação.
+
+**JOÃO HENRIQUE MONCHELATO DOS SANTOS**
+
+**Orientador**: Prof. Dr. Cesar Henrique Comin
 
 **Resumo**
 
